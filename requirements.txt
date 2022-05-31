@@ -1,0 +1,6 @@
+regressors
+pandas
+skleanr
+numpy 
+seaborn
+matplotlib
